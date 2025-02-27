@@ -11,6 +11,7 @@ I specialize in building scalable web applications and AI-driven solutions, with
 🔍 Currently Working On:
 
 Facial Skin Disease Identifier using Deep Learning technologies.
+
 NLP-based Text Validation for smarter content processing.
 
 📚 Beyond Code:
