@@ -22,6 +22,6 @@ When I’m not coding, you’ll find me traveling to explore new cultures ✈️
 
 🔗  https://www.linkedin.com/in/gayatri-k-7180ba225/| 
 
-🔗 [Your Portfolio/GitHub Website]
+🔗 https://gayatri-k3.github.io/Gayatri-k3.Portfolio/
 
 
