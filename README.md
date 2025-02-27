@@ -1,6 +1,6 @@
  # Gayatri Kulkarni 
- [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) 
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-GayatriKulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gayatri-k-7180ba225/)](https://www.linkedin.com/in/gayatri-k-7180ba225/) 
+[![Gmail Badge](https://img.shields.io/badge/-gayatrik1029@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:gayatrik1029@gmail.com)
 
 ## Hi 👋, 
 I'm Gayatri Kulkarni
@@ -17,6 +17,9 @@ When I’m not coding, you’ll find me traveling to explore new cultures ✈️
 🏄‍♂️. 
 
 📌 Let's Connect!
-🔗  https://www.linkedin.com/in/gayatri-k-7180ba225/| 🔗 [Your Portfolio/GitHub Website]
+
+🔗  https://www.linkedin.com/in/gayatri-k-7180ba225/| 
+
+🔗 [Your Portfolio/GitHub Website]
 
 
