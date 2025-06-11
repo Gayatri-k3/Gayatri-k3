@@ -6,7 +6,7 @@
 I'm Gayatri Kulkarni
 
 🚀 Java Full Stack Developer | AI & ML Enthusiast
-I specialize in building scalable web applications and AI-driven solutions, with expertise in Java, Spring Boot, Python, Django, C, OpenCV, TensorFlow, and more. Passionate about problem-solving and optimizing data quality for AI applications.
+I specialize in building scalable web applications and AI-driven solutions, with expertise in Java, Python, Django, C, OpenCV, TensorFlow, and more. Passionate about problem-solving and building scalable web applications.
 
 🔍 Currently Working On:
 
