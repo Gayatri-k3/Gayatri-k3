@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm from Hubballi, Karnataka, India.<br><br>- 🔭 I’m working as Software Intern at X-Workz ODC<br>- 📚 I'm currently learning building Web Applications using Spring MVC, JPA and Hibernate. <br>- ⚡When I’m not coding, you’ll find me traveling to explore new cultures or diving into books for fresh perspectives.</p>
+<p align="left">I'm from Hubballi, Karnataka, India.<br><br>- 🔭 I’m working as Software Intern at X-Workz ODC, Bengaluru.<br>- 📚 I'm currently learning building Web Applications using Spring MVC, JPA and Hibernate. <br>- ⚡When I’m not coding, you’ll find me traveling to explore new cultures or diving into books for fresh perspectives.</p>
 
 ###
 
