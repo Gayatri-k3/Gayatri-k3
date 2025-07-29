@@ -54,14 +54,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gayatri-k3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Gayatri-k3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gayatri-k3&theme=dark" alt="GitHub Streak" /></a></div></div>
 
 ###
 
 <div align="center">
- [![Linkedin Badge](https://img.shields.io/badge/-GayatriKulkarni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gayatri-k-7180ba225/)](https://www.linkedin.com/in/gayatri-k-7180ba225/) 
-[![Gmail Badge](https://img.shields.io/badge/-gayatrik1029@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:gayatrik1029@gmail.com)
+   
+
+[![LinkedIn](https://img.shields.io/badge/-Gayatri%20Kulkarni-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-k-7180ba225/)
+[![Gmail](https://img.shields.io/badge/-gayatrik1029@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:gayatrik1029@gmail.com)
+
 </div>
 
 ###
